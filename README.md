@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @v1ctor13
+- 👋 Hi, I’m @v1ctor
 - 👀 I’m interested in code
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on code
